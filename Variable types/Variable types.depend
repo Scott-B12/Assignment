@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731431975 source:c:\users\brian scott\onedrive\desktop\basic programming c\variable types\main.c
+	<stdio.h>
+
+1731432269 source:c:\users\brian scott\onedrive\desktop\basic programming c\variable types\struct aliasing.c
+	<stdio.h>
+
+1731432396 source:c:\users\brian scott\onedrive\desktop\basic programming c\variable types\function pointer.c
+	<stdio.h>
+
